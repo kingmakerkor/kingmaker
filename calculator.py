@@ -11,6 +11,3 @@ def multiply(a, b):
 
 def divide_aaa(a, b):    
     return a / b
-
-def say_hello():
-    print("hello")
